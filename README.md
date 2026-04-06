@@ -1,5 +1,7 @@
 # saas-nextjs-supabase
 
+![CI](https://github.com/Shaisolaris/saas-nextjs-supabase/actions/workflows/ci.yml/badge.svg)
+
 Next.js 14 SaaS starter with Supabase for authentication, database, Row Level Security, and storage. Stripe integration for subscriptions with checkout, webhooks, and customer portal. Team-based multi-tenancy with role-based access, project management, and member invitations.
 
 ## Stack
